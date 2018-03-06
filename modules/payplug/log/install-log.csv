@@ -1,0 +1,35 @@
+DATETIME,ERRORLEVEL,TAG,VALUE,LINE,FILE
+"2018-02-13 14:38:51",INFO,--,"Starting installation.",186,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Order state creation starting.",395,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Order state: paid",477,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Live context.",480,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",501,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 17",527,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Test context.",532,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",539,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 17",565,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Order state: refund",477,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Live context.",480,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",501,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 19",527,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Test context.",532,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",539,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 19",565,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Order state: pending",477,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Live context.",480,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",501,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 21",527,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Test context.",532,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",539,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 21",565,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Order state: error",477,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Live context.",480,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",501,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 23",527,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Test context.",532,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Creating new order state.",539,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"ID: 23",565,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Order state creation ended.",569,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Installation SQL Starting.",610,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Installation SQL ended.",666,/var/www/prestashop/modules/payplug/payplug.php
+"2018-02-13 14:38:52",INFO,--,"Installation complete.",227,/var/www/prestashop/modules/payplug/payplug.php
